@@ -1,6 +1,6 @@
 # Demo-bedrock-session
 
-# 🧠 Memory-Enabled Conversational AI using Amazon Bedrock, LangChain, and LangGraph
+# Memory-Enabled Conversational AI using Amazon Bedrock, LangChain, and LangGraph
 
 ## Overview
 
