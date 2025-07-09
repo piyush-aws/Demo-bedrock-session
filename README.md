@@ -38,7 +38,7 @@ The system is built as a state machine using LangGraph:
 Install required packages using pip:
 
 ```bash
-pip install boto3 langchain langgraph langchain-core langchain-aws
+pip install -r requirements.txt
 ```
 
 ---
